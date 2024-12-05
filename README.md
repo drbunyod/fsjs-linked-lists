@@ -1,2 +1,2 @@
-# fsjs-linked-lists
-Project: Linked Lists
+# Project: Linked Lists
+Linked Lists project for the Full Stack JavaScript course
